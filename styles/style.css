@@ -43,8 +43,8 @@ body {
 }
 
 .quemsomos {
-    margin: 25px;
-    background-color: gray;
+    margin: 20px;
+    background-color: white;
     border-radius: 20px;
     opacity: 80%;
 }
@@ -57,7 +57,7 @@ body {
 
 #mainContato {
     margin-top: 30px;
-    background-color: black;
+    background-color:black;
     margin-left: 40px;
     margin-right: 40px;
     border-radius: 15px;
@@ -65,6 +65,7 @@ body {
     justify-content: center;
     display: flex;
     padding: 30px;
+    opacity: 10$;
 }
 
 #mapa {
@@ -88,4 +89,11 @@ header {
 
 header h1{
     color: white;
+}
+h2{
+    color: gray;
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+    
 }

@@ -77,7 +77,8 @@ body {
     margin: 40px;
     display: flex;
     direction: colum;
-    
+   width: 30px;
+   height: 30px; 
 }
 
 h1 {

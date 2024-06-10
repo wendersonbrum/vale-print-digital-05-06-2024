@@ -76,6 +76,7 @@ body {
     margin: 40px;
     display: flex;
     direction: colum;
+    
 }
 
 h1 {
@@ -88,4 +89,8 @@ header {
 
 header h1{
     color: white;
+}
+a{
+    width: 20px;
+    height: 35px;
 }
